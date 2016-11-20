@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="free" >
+    <attr name="millisInFuture" format="integer" />
+    <attr name="toAlpha" format="float" />
+    <attr name="moveable" format="boolean"/>
+    <attr name="autoBack" format="boolean"/>
+    </declare-styleable>
+</resources>
