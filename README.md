@@ -54,5 +54,5 @@ compile 'com.github.Sbingo:FreeRadioGroup:v1.0.0'
 
 ```
 
-###If you feel it's useful, please give me a **star**, thank you~
+###If you feel it's useful, just give me a **star**, thank you~
 
